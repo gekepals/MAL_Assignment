@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7D194669-620D-4CF0-A9BE-061E2BDE8367}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MAL-ASS1/Skaters.cs">
+    <Files>
+      <File FileName="MAL-ASS1/Skaters.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MAL-ASS1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

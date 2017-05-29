@@ -1,0 +1,24 @@
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1\MAL-ASS1\bin\Debug\MAL-ASS1.exe.config
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1\MAL-ASS1\obj\Debug\MAL-ASS1.csprojResolveAssemblyReference.cache
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1\MAL-ASS1\bin\Debug\MAL-ASS1.exe
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1\MAL-ASS1\bin\Debug\MAL-ASS1.pdb
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1\MAL-ASS1\obj\Debug\MAL-ASS1.exe
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1\MAL-ASS1\obj\Debug\MAL-ASS1.pdb
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1\MAL-ASS1\obj\Debug\MAL_ASS1.Skaters.resources
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1\MAL-ASS1\obj\Debug\MAL-ASS1.csproj.GenerateResource.Cache
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1-met-E-greedy\MAL-ASS1 met E-greedy\MAL-ASS1\bin\Debug\MAL-ASS1.exe.config
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1-met-E-greedy\MAL-ASS1 met E-greedy\MAL-ASS1\obj\Debug\MAL-ASS1.exe
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1-met-E-greedy\MAL-ASS1 met E-greedy\MAL-ASS1\obj\Debug\MAL-ASS1.pdb
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1-met-E-greedy\MAL-ASS1 met E-greedy\MAL-ASS1\bin\Debug\MAL-ASS1.exe
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1-met-E-greedy\MAL-ASS1 met E-greedy\MAL-ASS1\bin\Debug\MAL-ASS1.pdb
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1-met-E-greedy\MAL-ASS1 met E-greedy\MAL-ASS1\obj\Debug\MAL-ASS1.csprojResolveAssemblyReference.cache
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1-met-E-greedy\MAL-ASS1 met E-greedy\MAL-ASS1\obj\Debug\MAL_ASS1.Skaters.resources
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1-met-E-greedy\MAL-ASS1 met E-greedy\MAL-ASS1\obj\Debug\MAL-ASS1.csproj.GenerateResource.Cache
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1-met-E-greedy-2\MAL-ASS1-met-E-greedy\MAL-ASS1 met E-greedy\MAL-ASS1\bin\Debug\MAL-ASS1.exe.config
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1-met-E-greedy-2\MAL-ASS1-met-E-greedy\MAL-ASS1 met E-greedy\MAL-ASS1\obj\Debug\MAL-ASS1.exe
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1-met-E-greedy-2\MAL-ASS1-met-E-greedy\MAL-ASS1 met E-greedy\MAL-ASS1\obj\Debug\MAL-ASS1.pdb
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1-met-E-greedy-2\MAL-ASS1-met-E-greedy\MAL-ASS1 met E-greedy\MAL-ASS1\bin\Debug\MAL-ASS1.exe
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1-met-E-greedy-2\MAL-ASS1-met-E-greedy\MAL-ASS1 met E-greedy\MAL-ASS1\bin\Debug\MAL-ASS1.pdb
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1-met-E-greedy-2\MAL-ASS1-met-E-greedy\MAL-ASS1 met E-greedy\MAL-ASS1\obj\Debug\MAL-ASS1.csprojResolveAssemblyReference.cache
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1-met-E-greedy-2\MAL-ASS1-met-E-greedy\MAL-ASS1 met E-greedy\MAL-ASS1\obj\Debug\MAL_ASS1.Skaters.resources
+C:\Users\Bruger1\Documents\Visual Studio 2015\Projects\MAL-ASS1-met-E-greedy-2\MAL-ASS1-met-E-greedy\MAL-ASS1 met E-greedy\MAL-ASS1\obj\Debug\MAL-ASS1.csproj.GenerateResource.Cache

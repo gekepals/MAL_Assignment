@@ -1,0 +1,14 @@
+/Users/michielbraat/Downloads/MAL-ASS1 3/MAL-ASS1/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/michielbraat/Downloads/MAL-ASS1 3/MAL-ASS1/obj/Debug/MAL_ASS1.Skaters.resources
+/Users/michielbraat/Downloads/MAL-ASS1 3/MAL-ASS1/bin/Debug/MAL-ASS1.exe.config
+/Users/michielbraat/Downloads/MAL-ASS1 3/MAL-ASS1/bin/Debug/MAL-ASS1.pdb
+/Users/michielbraat/Downloads/MAL-ASS1 3/MAL-ASS1/bin/Debug/MAL-ASS1.exe
+/Users/michielbraat/Downloads/MAL-ASS1 3/MAL-ASS1/obj/Debug/MAL-ASS1.exe
+/Users/michielbraat/Downloads/MAL-ASS1 3/MAL-ASS1/obj/Debug/MAL-ASS1.pdb
+/Users/michielbraat/Downloads/MAL-ASS1-met-E-greedy/MAL-ASS1 met E-greedy/MAL-ASS1/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/michielbraat/Downloads/MAL-ASS1-met-E-greedy/MAL-ASS1 met E-greedy/MAL-ASS1/obj/Debug/MAL_ASS1.Skaters.resources
+/Users/michielbraat/Downloads/MAL-ASS1-met-E-greedy/MAL-ASS1 met E-greedy/MAL-ASS1/bin/Debug/MAL-ASS1.exe.config
+/Users/michielbraat/Downloads/MAL-ASS1-met-E-greedy/MAL-ASS1 met E-greedy/MAL-ASS1/bin/Debug/MAL-ASS1.pdb
+/Users/michielbraat/Downloads/MAL-ASS1-met-E-greedy/MAL-ASS1 met E-greedy/MAL-ASS1/bin/Debug/MAL-ASS1.exe
+/Users/michielbraat/Downloads/MAL-ASS1-met-E-greedy/MAL-ASS1 met E-greedy/MAL-ASS1/obj/Debug/MAL-ASS1.exe
+/Users/michielbraat/Downloads/MAL-ASS1-met-E-greedy/MAL-ASS1 met E-greedy/MAL-ASS1/obj/Debug/MAL-ASS1.pdb
